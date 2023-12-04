@@ -10,8 +10,8 @@ Thanks for visiting the repository.
 - Improve the visualization of data and analyze the results for reporting purposes.
 
 
-## Apporach to Challenge
-- Throughly went through the dataset and asked queries, created "View" to help thoughout the quires.
+## Approach to Challenge
+- Observed through the dataset and asked queries, creating "View" to help through the queries.
 - Used SQL Join, Common Table Expression (CTE) and Window Function (e.g. Rank()).
 - Power BI used for visulization.
 
